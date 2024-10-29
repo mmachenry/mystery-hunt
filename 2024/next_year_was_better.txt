@@ -1,0 +1,19 @@
+Definitely practice more with constraint solvers in Clojure and Haskell
+at least to have a couple of options.
+
+Roman Numerals should be in the spreadsheets. They are actually. 
+
+There should be a Google Editor Addon for the sheets functions. Talk to
+Ruven and Amber about how they want to add those things together.
+
+I'm still too slow at writing code.
+
+Can we make a cross word visual in google addons?
+
+"Is this a word in a very liberal dictionary" function for google sheets
+
+I was asked for a long-string anagrammer. Internet services for this
+sometimes don't do multiword and sometimes have character limits. We should
+also be able to input special dictionaries.
+
+Perhaps collect a set of dictionaries ahead of time.

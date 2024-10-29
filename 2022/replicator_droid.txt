@@ -1,0 +1,16 @@
+Yellow Purple -> Blue
+3
+Grey Green -> Black
+4
+Blue Pink -> Gold
+5
+Organge Red -> Turquoise
+2
+
+
+... but then ...
+White Brown -> Gold
+White Brown -> Gray
+
+... and we need maroon for recipe 1
+
