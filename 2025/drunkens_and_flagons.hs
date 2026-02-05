@@ -24,6 +24,7 @@ mkGrid labels = do
 
 -- solution = sat $ do
 solution = allSat $ do
+  {-
   grid <- mkGrid [
             ["left1", "left2", "left3", "left4", "left5", "left6", "left7", "left8"],
             ["alison", "august", "bill", "gracie", "oliver", "patrick", "tabitha", "yaron"],
@@ -31,6 +32,7 @@ solution = allSat $ do
             ["ale", "fernet", "gin", "mead", "rye", "tequila", "vodka", "wine"],
             ["drank05", "drank07", "drank08", "drank09", "drank12", "drank13", "drank15", "drank21"]
             ]
+  -}
 
   -- start of grid puzzle boilerplate
   alison <- sInteger "alison"
